@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--ue-eds-xwalk--vijay-46.aem.live/sitemap.xml
